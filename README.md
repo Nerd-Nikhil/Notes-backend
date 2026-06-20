@@ -6,7 +6,7 @@ The API provides secure user authentication and complete CRUD functionality for 
 
 ## Live API
 
-https://your-render-url.onrender.com
+https://notes-backend-qy72.onrender.com/
 
 ## Features
 
@@ -51,7 +51,7 @@ backend/
 Clone the repository:
 
 ```bash
-git clone <backend-repository-url>
+git clone https://github.com/Nerd-Nikhil/Notes-backend
 ```
 
 Install dependencies:
@@ -133,7 +133,7 @@ PATCH  /notes/:id/pin
 
 ## Frontend Repository
 
-https://github.com/yourusername/notes-frontend
+https://github.com/Nerd-Nikhil/Notes
 
 ## Deployment
 
